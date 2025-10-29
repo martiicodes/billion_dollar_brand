@@ -562,3 +562,12 @@ padding-left: 10px;   /* optional, space for bullets */
   margin: 0 auto; 
 }
 
+.shadowed-to-sum-up {
+  width: 500px;         
+  height: auto;           
+  display: block;     
+  margin: 0 auto;         
+  border-radius: 15px;    
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15); 
+}
+
